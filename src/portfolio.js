@@ -233,7 +233,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/sunumarceLogo.jpg"),
+      image: require("./assets/images/sunumarceLogo.webp"),
       projectName: "Sunumarce Ecommerce Website",
       projectDesc: "Built Sunumarce Ecommerce website to enable clients to buy their products in the website",
       footerLink: [
@@ -245,7 +245,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/prestigeLogo.jpeg"),
+      image: require("./assets/images/prestigeLogo.webp"),
       projectName: "Prestige Shuttle Travel and Tours",
       projectDesc: "A modern travel agency website offering comfortable and reliable shuttle services for tours, airport transfers, and corporate travel across Kenya. Built for easy booking and showcasing premium travel experiences",
       footerLink: [
@@ -257,7 +257,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/kingdomLogo.jpeg"),
+      image: require("./assets/images/kingdomLogo.webp"),
       projectName: "Kingdom Seekers Innovation Hub",
       projectDesc: "Kingdom Seeker Innovation Hub is a responsive website designed to showcase programs, events, and initiatives that support innovation, entrepreneurship, and community empowerment. It features an intuitive layout for easy access to training opportunities, partnerships, and contact information.",
       footerLink: [
@@ -269,7 +269,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/jitLogo.png"),
+      image: require("./assets/images/jitLogo.webp"),
       projectName: "Jit Machinery Services",
       projectDesc: "Jit Machinery Services is a professional website built to promote industrial machinery solutions, showcasing services such as equipment maintenance, repair, and supply. The site features a clean layout, service listings, and contact integration to connect clients with expert technicians.",
       footerLink: [
@@ -281,7 +281,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/lifestyleLogo.jpg"),
+      image: require("./assets/images/lifestyleLogo.webp"),
       projectName: "Lifestyle Mabati",
       projectDesc: "Lifestyle Mabati is a responsive eCommerce website designed for customers to browse and purchase high-quality roofing sheets online. It features product listings with pricing, finishes, and gauges, a shopping cart, and a streamlined checkout process to enhance user experience and drive sales",
       footerLink: [
@@ -294,7 +294,7 @@ const bigProjects = {
     },
 
     {
-      image: require("./assets/images/pandaLogo.jpg"),
+      image: require("./assets/images/pandaLogo.webp"),
       projectName: "Panda Mabati Website",
       projectDesc: "Panda Mabati is a responsive website developed for a roofing materials supplier to enhance their digital presence and customer experience. The site features a detailed product showcase, allowing users to explore roofing options by finish, gauge, and pricing. With a focus on performance and usability. The platform also includes contact and inquiry features to streamline customer communication.",
       footerLink: [
@@ -307,7 +307,7 @@ const bigProjects = {
     },
     
     {
-      image: require("./assets/images/kavelLogo.jpg"),
+      image: require("./assets/images/kavelLogo.webp"),
       projectName: "Kavel Digital Solutions Website ",
       projectDesc: "A leading digital agency specializing in innovative technology solutions, SEO, and digital marketing services. Kavel Digital Solutions is committed to helping businesses grow through cutting-edge strategies and top-tier customer service.",
       footerLink: [
@@ -319,7 +319,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/healthfarmsLogo.jpg"),
+      image: require("./assets/images/healthfarmsLogo.webp"),
       projectName: "Health Farms NGO Website",
       projectDesc: "A nonprofit website dedicated to promoting sustainable farming practices, improving community health, and supporting rural development initiatives. Designed to educate, empower, and connect communities through impactful programs and resources",
       footerLink: [
