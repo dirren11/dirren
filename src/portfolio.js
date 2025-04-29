@@ -23,7 +23,7 @@ const greeting = {
   username: "Dirren",
   title: "Hello, I'm Dirren Mwangi",
   subTitle: emoji(
-    "An enthusiastic Graphic Designer and Full Stack Developer 👽 with experience in creating web and mobile applications using WordPress, JavaScript, React.js, Node.js, React Native, and various other modern libraries and frameworks."
+    "A passionate Full Stack Developer and Graphic Designer 👨‍💻 skilled in building engaging web and mobile applications using React.js, Node.js, WordPress, and more."
   ),
   resumeLink:
     "https://drive.google.com/file/d/104x5i6EpMqf4ja71DFw-Qog547zCGJgq/view?usp=drive_link", // Set to empty to hide the button
@@ -123,7 +123,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Mongo DB",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fab fa-leaf"
     }
     
   ],
@@ -141,10 +141,10 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2020 - August 2024",
       desc: "Finished my Four Year Degree Program and Got the best final year Project award.",
-      //descBullets: [
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      descBullets: [
+        "Recognized for building an impactful and innovative project during my Computer Science program."
         //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      //]
+      ]
     },
     {
       schoolName: "ALX Kenya",
@@ -163,7 +163,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Frontend Development & UI Design", //Insert stack or technology you have experience in
       progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
@@ -188,7 +188,7 @@ const workExperiences = {
       company: "Digiworld Media Solutions",
       companylogo: require("./assets/images/digiworldLogo.jpg"),
       date: "June 2023 – Present",
-      desc: "Partcipated in Building the websites and web applications",
+      desc: "Participated in Building the websites and web applications",
       descBullets: [
         "Designed and Developed Over 50 websites and Built In Company System Like the POS.",
         //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -198,8 +198,8 @@ const workExperiences = {
       role: "Software Developer and Web Designer",
       company: "Global Wave Wholesale",
       companylogo: require("./assets/images/globalwaveLogo.png"),
-      date: "August 2024 – March 2024",
-      desc: "Built internal Company systems to provide solutions and maintained their website and Mobile Applications. Also astonishing designs for their Mobile apps."
+      date: "August 2024 – March 2025",
+      desc: "Developed internal systems to provide solutions and maintained their website and Mobile Applications. Also astonishing designs for their Mobile apps."
     },
     {
       role: "IT SUPPORT Internship",
@@ -296,7 +296,7 @@ const bigProjects = {
     {
       image: require("./assets/images/pandaLogo.jpg"),
       projectName: "Panda Mabati Website",
-      projectDesc: "Website to Display What Panda Mabati Information",
+      projectDesc: "Panda Mabati is a responsive website developed for a roofing materials supplier to enhance their digital presence and customer experience. The site features a detailed product showcase, allowing users to explore roofing options by finish, gauge, and pricing. With a focus on performance and usability. The platform also includes contact and inquiry features to streamline customer communication.",
       footerLink: [
         {
           name: "Visit Website",
