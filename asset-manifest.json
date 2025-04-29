@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/dirren/static/css/main.ee6f6df3.css",
+    "main.js": "/dirren/static/js/main.37dcbf27.js",
+    "static/css/64.bba8fa55.chunk.css": "/dirren/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.eb2d06ce.chunk.js": "/dirren/static/js/64.eb2d06ce.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/dirren/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.15b5acbd.chunk.js": "/dirren/static/js/769.15b5acbd.chunk.js",
+    "static/media/lifestyleLogo.jpg": "/dirren/static/media/lifestyleLogo.a37ce8958ee8e2f8d4af.jpg",
+    "static/media/eprintLogo.jpg": "/dirren/static/media/eprintLogo.f37beea95ce21b0e7652.jpg",
+    "static/media/Montserrat-Regular.ttf": "/dirren/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/hikvision.jpg": "/dirren/static/media/hikvision.e5326bc34298d5e376a3.jpg",
+    "static/media/firstCert.png": "/dirren/static/media/firstCert.1ff1a2b3b2c749fa0886.png",
+    "static/media/secondCert.png": "/dirren/static/media/secondCert.a5cb9ac1b75f5189056e.png",
+    "static/media/Agustina.woff": "/dirren/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/pandaLogo.jpg": "/dirren/static/media/pandaLogo.38b3e38292c53188aeb3.jpg",
+    "static/media/healthfarmsLogo.jpg": "/dirren/static/media/healthfarmsLogo.016d019fd2ef8eaef1bd.jpg",
+    "static/media/sunumarceLogo.jpg": "/dirren/static/media/sunumarceLogo.be7926bd188c89c7a9fe.jpg",
+    "static/media/manOnTable.svg": "/dirren/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/resume.pdf": "/dirren/static/media/resume.d82d5d5161e73bf384d7.pdf",
+    "static/media/digiworldLogo.jpg": "/dirren/static/media/digiworldLogo.07092118a8e729011715.jpg",
+    "static/media/contactMailDark.svg": "/dirren/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/dirren/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/kavelLogo.jpg": "/dirren/static/media/kavelLogo.07217e455148b4c6ccd4.jpg",
+    "static/media/kingdomLogo.jpeg": "/dirren/static/media/kingdomLogo.8ffc80b79ea1ad21fdc8.jpeg",
+    "static/media/kabiangaLogo.jpg": "/dirren/static/media/kabiangaLogo.ba582944fad311d095c9.jpg",
+    "static/media/skill.svg": "/dirren/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/dirren/index.html",
+    "static/media/talksCardBack.svg": "/dirren/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.ee6f6df3.css.map": "/dirren/static/css/main.ee6f6df3.css.map",
+    "main.37dcbf27.js.map": "/dirren/static/js/main.37dcbf27.js.map",
+    "64.bba8fa55.chunk.css.map": "/dirren/static/css/64.bba8fa55.chunk.css.map",
+    "64.eb2d06ce.chunk.js.map": "/dirren/static/js/64.eb2d06ce.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/dirren/static/css/769.b3cbb36b.chunk.css.map",
+    "769.15b5acbd.chunk.js.map": "/dirren/static/js/769.15b5acbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6f6df3.css",
+    "static/js/main.37dcbf27.js"
+  ]
+}
