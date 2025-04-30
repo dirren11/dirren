@@ -226,7 +226,7 @@ const openSource = {
   display: true // Set false to hide this section, defaults to true
 };
 
-// Some big projects you have worked on
+
 
 const bigProjects = {
   title: " Projects",
@@ -256,18 +256,7 @@ const bigProjects = {
        
       ]
     },
-    {
-      image: require("./assets/images/kingdomLogo.webp"),
-      projectName: "Kingdom Seekers Innovation Hub",
-      projectDesc: "Kingdom Seeker Innovation Hub is a responsive website designed to showcase programs, events, and initiatives that support innovation, entrepreneurship, and community empowerment. It features an intuitive layout for easy access to training opportunities, partnerships, and contact information.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://kingdomhub.co.ke/"
-        }
-        
-      ]
-    },
+    
     {
       image: require("./assets/images/jitLogo.webp"),
       projectName: "Jit Machinery Services",
@@ -281,32 +270,6 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/lifestyleLogo.webp"),
-      projectName: "Lifestyle Mabati",
-      projectDesc: "Lifestyle Mabati is a responsive eCommerce website designed for customers to browse and purchase high-quality roofing sheets online. It features product listings with pricing, finishes, and gauges, a shopping cart, and a streamlined checkout process to enhance user experience and drive sales",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://lifestylemabati.co.ke/"
-        }
-        
-      ]
-    },
-
-    {
-      image: require("./assets/images/pandaLogo.webp"),
-      projectName: "Panda Mabati Website",
-      projectDesc: "Panda Mabati is a responsive website developed for a roofing materials supplier to enhance their digital presence and customer experience. The site features a detailed product showcase, allowing users to explore roofing options by finish, gauge, and pricing. With a focus on performance and usability. The platform also includes contact and inquiry features to streamline customer communication.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://pandaroofing.com/"
-        }
-        
-      ]
-    },
-    
-    {
       image: require("./assets/images/kavelLogo.webp"),
       projectName: "Kavel Digital Solutions Website ",
       projectDesc: "A leading digital agency specializing in innovative technology solutions, SEO, and digital marketing services. Kavel Digital Solutions is committed to helping businesses grow through cutting-edge strategies and top-tier customer service.",
@@ -318,6 +281,8 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+
+    
     {
       image: require("./assets/images/healthfarmsLogo.webp"),
       projectName: "Health Farms NGO Website",
