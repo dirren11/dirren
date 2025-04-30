@@ -270,6 +270,19 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/lifestyleLogo.webp"),
+      projectName: "Lifestyle Mabati",
+      projectDesc: "Lifestyle Mabati is a responsive eCommerce website designed for customers to browse and purchase high-quality roofing sheets online. It features product listings with pricing, finishes, and gauges, a shopping cart, and a streamlined checkout process to enhance user experience and drive sales",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://lifestylemabati.co.ke/"
+        }
+        
+      ]
+    },
+    
+    {
       image: require("./assets/images/kavelLogo.webp"),
       projectName: "Kavel Digital Solutions Website ",
       projectDesc: "A leading digital agency specializing in innovative technology solutions, SEO, and digital marketing services. Kavel Digital Solutions is committed to helping businesses grow through cutting-edge strategies and top-tier customer service.",
@@ -281,8 +294,6 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
-
-    
     {
       image: require("./assets/images/healthfarmsLogo.webp"),
       projectName: "Health Farms NGO Website",
@@ -369,7 +380,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "Get read some of my opinions.",
+    "Get to read some of my opinions.",
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
@@ -450,7 +461,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "Dirren", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
