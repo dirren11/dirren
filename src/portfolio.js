@@ -143,7 +143,7 @@ const educationInfo = {
       desc: "Finished my Four Year Degree Program and Got the best final year Project award.",
       descBullets: [
         "Recognized for building an impactful and innovative project during my Computer Science program."
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        
       ]
     },
     {
@@ -152,19 +152,19 @@ const educationInfo = {
       subHeader: "Front End Web Development",
       duration: " May 2023- April 2024",
       desc: "Ranked top in the program. Took courses about Front Web Development Libraries Such as React and Other Course",
-      //descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      
     }
   ]
 };
 
-// Your top 3 proficient stacks/tech experience
+
 
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend Development & UI Design", //Insert stack or technology you have experience in
-      progressPercentage: "95%" //Insert relative proficiency in percentage
+      Stack: "Frontend Development & UI Design", 
+      progressPercentage: "95%" 
     },
     {
       Stack: "Backend and Hosting",
@@ -191,7 +191,7 @@ const workExperiences = {
       desc: "Participated in Building the websites and web applications",
       descBullets: [
         "Designed and Developed Over 50 websites and Built In Company System Like the POS.",
-        //"Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        
       ]
     },
     {
@@ -219,7 +219,7 @@ const workExperiences = {
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+ */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
@@ -241,7 +241,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://sunumarce.com/"
         }
-        //  you can add extra buttons here.
+        
       ]
     },
     {
@@ -291,7 +291,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://kaveldigitalsolutions.com//"
         }
-        //  you can add extra buttons here.
+       
       ]
     },
     {
@@ -310,7 +310,7 @@ const bigProjects = {
 };
 
 // Achievement Section
-// Include certificates, talks etc
+
 
 const achievementSection = {
   title: emoji("Recognitions and Certifications 🏆 "),
@@ -432,9 +432,9 @@ const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "COMING SOON",
 
-  // Please Provide with Your Podcast embeded Link
+  
   podcast: [
-    //"https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    //"https://anchor.fm/codevcast/embed/episodes/dirren"
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -445,7 +445,7 @@ const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
 
-  // Please Provide with Your Podcast embeded Link
+ 
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -460,11 +460,11 @@ const contactInfo = {
 // Twitter Section
 
 const twitterDetails = {
-  userName: "Dirren", //Replace "twitter" with your twitter username without @
+  userName: "evolutionary_11", 
   display: false // Set true to display this section, defaults to false
 };
 
-const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
+const isHireable = true; 
 
 export {
   illustration,

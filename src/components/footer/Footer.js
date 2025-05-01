@@ -13,9 +13,9 @@ export default function Footer() {
           {emoji("Made by Dirren Mwangi 👽")}
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Powered by{" "}
+          Developed by{" "}
           <a
-            href="https://github.com/dirren11"
+            href="https://wa.me/254741854227"
             target="_blank"
             rel="noreferrer"
           >
