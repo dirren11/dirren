@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dirren/static/css/main.a4e066f6.css",
-    "main.js": "/dirren/static/js/main.2ef4a8e9.js",
+    "main.js": "/dirren/static/js/main.e665a567.js",
     "static/css/64.bba8fa55.chunk.css": "/dirren/static/css/64.bba8fa55.chunk.css",
     "static/js/64.eb2d06ce.chunk.js": "/dirren/static/js/64.eb2d06ce.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/dirren/static/css/769.b3cbb36b.chunk.css",
@@ -19,8 +19,8 @@
     "static/media/contactMailDark.svg": "/dirren/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/dirren/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/sunumarceLogo.webp": "/dirren/static/media/sunumarceLogo.f4e15fb845993dbcf331.webp",
+    "static/media/kabiangaLogo.jpg": "/dirren/static/media/kabiangaLogo.7a692e124c17767a7a51.jpg",
     "static/media/healthfarmsLogo.webp": "/dirren/static/media/healthfarmsLogo.753224e9678666ab7d09.webp",
-    "static/media/kabiangaLogo.jpg": "/dirren/static/media/kabiangaLogo.ba582944fad311d095c9.jpg",
     "static/media/skill.svg": "/dirren/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/kavelLogo.webp": "/dirren/static/media/kavelLogo.80a895b03321a87a256d.webp",
     "static/media/prestigeLogo.webp": "/dirren/static/media/prestigeLogo.a8b3b07667348b475167.webp",
@@ -28,7 +28,7 @@
     "static/media/jitLogo.webp": "/dirren/static/media/jitLogo.bc85f9cdd520bb401c4a.webp",
     "static/media/talksCardBack.svg": "/dirren/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a4e066f6.css.map": "/dirren/static/css/main.a4e066f6.css.map",
-    "main.2ef4a8e9.js.map": "/dirren/static/js/main.2ef4a8e9.js.map",
+    "main.e665a567.js.map": "/dirren/static/js/main.e665a567.js.map",
     "64.bba8fa55.chunk.css.map": "/dirren/static/css/64.bba8fa55.chunk.css.map",
     "64.eb2d06ce.chunk.js.map": "/dirren/static/js/64.eb2d06ce.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/dirren/static/css/769.b3cbb36b.chunk.css.map",
@@ -36,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.a4e066f6.css",
-    "static/js/main.2ef4a8e9.js"
+    "static/js/main.e665a567.js"
   ]
 }
