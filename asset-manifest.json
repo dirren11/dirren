@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dirren/static/css/main.a4e066f6.css",
-    "main.js": "/dirren/static/js/main.e665a567.js",
+    "main.css": "/dirren/static/css/main.ee6f6df3.css",
+    "main.js": "/dirren/static/js/main.a731cddb.js",
     "static/css/64.bba8fa55.chunk.css": "/dirren/static/css/64.bba8fa55.chunk.css",
     "static/js/64.eb2d06ce.chunk.js": "/dirren/static/js/64.eb2d06ce.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/dirren/static/css/769.b3cbb36b.chunk.css",
@@ -13,8 +13,8 @@
     "static/media/lifestyleLogo.webp": "/dirren/static/media/lifestyleLogo.f2a95f71da8d3bdbf538.webp",
     "static/media/secondCert.png": "/dirren/static/media/secondCert.a5cb9ac1b75f5189056e.png",
     "static/media/Agustina.woff": "/dirren/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/dirren resume.pdf": "/dirren/static/media/dirren resume.ebe7adc9dd026a6afac2.pdf",
     "static/media/manOnTable.svg": "/dirren/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/dirren resume.pdf": "/dirren/static/media/dirren resume.a5aa937b408cf054ca56.pdf",
     "static/media/digiworldLogo.jpg": "/dirren/static/media/digiworldLogo.07092118a8e729011715.jpg",
     "static/media/contactMailDark.svg": "/dirren/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/dirren/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
@@ -27,15 +27,15 @@
     "index.html": "/dirren/index.html",
     "static/media/jitLogo.webp": "/dirren/static/media/jitLogo.bc85f9cdd520bb401c4a.webp",
     "static/media/talksCardBack.svg": "/dirren/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.a4e066f6.css.map": "/dirren/static/css/main.a4e066f6.css.map",
-    "main.e665a567.js.map": "/dirren/static/js/main.e665a567.js.map",
+    "main.ee6f6df3.css.map": "/dirren/static/css/main.ee6f6df3.css.map",
+    "main.a731cddb.js.map": "/dirren/static/js/main.a731cddb.js.map",
     "64.bba8fa55.chunk.css.map": "/dirren/static/css/64.bba8fa55.chunk.css.map",
     "64.eb2d06ce.chunk.js.map": "/dirren/static/js/64.eb2d06ce.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/dirren/static/css/769.b3cbb36b.chunk.css.map",
     "769.15b5acbd.chunk.js.map": "/dirren/static/js/769.15b5acbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4e066f6.css",
-    "static/js/main.e665a567.js"
+    "static/css/main.ee6f6df3.css",
+    "static/js/main.a731cddb.js"
   ]
 }
