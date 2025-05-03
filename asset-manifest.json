@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dirren/static/css/main.ee6f6df3.css",
-    "main.js": "/dirren/static/js/main.a731cddb.js",
+    "main.css": "/dirren/static/css/main.a4e066f6.css",
+    "main.js": "/dirren/static/js/main.42f9dc27.js",
     "static/css/64.bba8fa55.chunk.css": "/dirren/static/css/64.bba8fa55.chunk.css",
     "static/js/64.eb2d06ce.chunk.js": "/dirren/static/js/64.eb2d06ce.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/dirren/static/css/769.b3cbb36b.chunk.css",
@@ -27,15 +27,15 @@
     "index.html": "/dirren/index.html",
     "static/media/jitLogo.webp": "/dirren/static/media/jitLogo.bc85f9cdd520bb401c4a.webp",
     "static/media/talksCardBack.svg": "/dirren/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.ee6f6df3.css.map": "/dirren/static/css/main.ee6f6df3.css.map",
-    "main.a731cddb.js.map": "/dirren/static/js/main.a731cddb.js.map",
+    "main.a4e066f6.css.map": "/dirren/static/css/main.a4e066f6.css.map",
+    "main.42f9dc27.js.map": "/dirren/static/js/main.42f9dc27.js.map",
     "64.bba8fa55.chunk.css.map": "/dirren/static/css/64.bba8fa55.chunk.css.map",
     "64.eb2d06ce.chunk.js.map": "/dirren/static/js/64.eb2d06ce.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/dirren/static/css/769.b3cbb36b.chunk.css.map",
     "769.15b5acbd.chunk.js.map": "/dirren/static/js/769.15b5acbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee6f6df3.css",
-    "static/js/main.a731cddb.js"
+    "static/css/main.a4e066f6.css",
+    "static/js/main.42f9dc27.js"
   ]
 }
